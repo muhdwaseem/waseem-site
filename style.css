@@ -5,12 +5,19 @@
 :root{
     --primary-color:#1F2937;
     --off-white:#9CA3AF;
+    --dark-brown:#7F1D1D;
 
 }
+
+
 body{
     font-family: 'Nanum Gothic', sans-serif;
     font-family: 'Nunito Sans', sans-serif;
     margin: 0px;
+}
+h1{
+    color: var(--dark-brown);
+    text-align: center;
 }
 .navigation{
     background-color:var(--primary-color);
