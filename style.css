@@ -15,10 +15,7 @@ body{
     font-family: 'Nunito Sans', sans-serif;
     margin: 0px;
 }
-h1{
-    color: var(--dark-brown);
-    text-align: center;
-}
+
 .navigation{
     background-color:var(--primary-color);
     color:white;
